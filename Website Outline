@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Blog Title</title>
+  <title>General Physical Preparedness GPP!</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
@@ -51,8 +51,8 @@
 <body>
 
 <header>
-  <h1>Your Blog Title</h1>
-  <p>Exploring Interesting Topics</p>
+  <h1>GPP</h1>
+  <p>In the beginning...</p>
 </header>
 
 <nav>
