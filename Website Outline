@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Blog Title</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 2em 0;
+    }
+
+    nav {
+      background-color: #444;
+      padding: 1em 0;
+      text-align: center;
+    }
+
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 1em;
+    }
+
+    section {
+      padding: 20px;
+    }
+
+    article {
+      margin-bottom: 20px;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1em 0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Your Blog Title</h1>
+  <p>Exploring Interesting Topics</p>
+</header>
+
+<nav>
+  <a href="#home">Home</a>
+  <a href="#category1">Category 1</a>
+  <a href="#category2">Category 2</a>
+  <a href="#category3">Category 3</a>
+</nav>
+
+<section id="home">
+  <article>
+    <h2>Post Title 1</h2>
+    <p>This is a brief introduction to your first blog post.</p>
+  </article>
+
+  <article>
+    <h2>Post Title 2</h2>
+    <p>This is a brief introduction to your second blog post.</p>
+  </article>
+
+  <!-- Add more articles for additional blog posts -->
+</section>
+
+<footer>
+  <p>&copy; 2023 Your Blog</p>
+</footer>
+
+</body>
+</html>
